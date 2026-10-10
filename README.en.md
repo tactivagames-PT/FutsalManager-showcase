@@ -38,6 +38,6 @@ Press · career and hall of fame · data editor (district leagues) · native PC 
 ## Support / Sponsor
 Development is independent. Tiers: **Supporter** (public thanks), **In the credits** (your name in the game),
 **Fictional club** (a club named after you or your business), **Main sponsor** (featured brand in the game and here).
-Support link: **[buymeacoffee.com/tactivagames](https://buymeacoffee.com/tactivagames)**. Contact: open an [issue](../../issues).
+<a href="https://www.buymeacoffee.com/tactivagames"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=tactivagames&button_colour=FFDD00&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=ffffff" alt="Buy me a coffee"></a> Contact: open an [issue](../../issues).
 
 _All clubs, players and brands in the game are fictional._

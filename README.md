@@ -46,7 +46,7 @@ O desenvolvimento é independente. Se queres ajudar:
 | **Clube fictício** | Um clube no jogo com o nome do teu negócio ou o teu |
 | **Patrocinador principal** | Marca em destaque no jogo e neste projeto |
 
-Link de apoio: **[buymeacoffee.com/tactivagames](https://buymeacoffee.com/tactivagames)**
+<a href="https://www.buymeacoffee.com/tactivagames"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=tactivagames&button_colour=FFDD00&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=ffffff" alt="Buy me a coffee"></a>
 
 ## Contacto
 Sugestões e propostas: abre uma [issue](../../issues) neste repositório.
