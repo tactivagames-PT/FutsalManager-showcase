@@ -1,7 +1,7 @@
 # Futsal Manager
 
 > Jogo de gestão de futsal, feito de raiz, com clubes e jogadores **fictícios** e um motor de jogo em 2D.
-> 🇬🇧 [English version](README.en.md) · 🌐 Página: _link a adicionar depois de ativar o GitHub Pages_
+> 🇬🇧 [English version](README.en.md) · 🌐 Página: [tactivagames-pt.github.io/FutsalManager-showcase](https://tactivagames-pt.github.io/FutsalManager-showcase/)
 
 ![Jogo ao vivo em 2D](docs/media/aovivo.png)
 
