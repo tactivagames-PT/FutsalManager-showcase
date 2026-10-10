@@ -24,12 +24,20 @@ source** (see [LICENSE](LICENSE)). It exists to present the project and look for
 - **Board and finances**: sponsors, bank credit, financial fair play and club sale.
 - **Multiple save slots**, light/dark theme and keyboard shortcuts.
 
+<table>
+<tr><td><img src="docs/media/relatorio.png"></td><td><img src="docs/media/taticas.png"></td></tr>
+<tr><td><img src="docs/media/mercado.png"></td><td><img src="docs/media/financas.png"></td></tr>
+<tr><td><img src="docs/media/plantel.png"></td><td><img src="docs/media/staff.png"></td></tr>
+<tr><td><img src="docs/media/clube.png"></td><td><img src="docs/media/competicoes.png"></td></tr>
+<tr><td><img src="docs/media/calendario.png"></td><td></td></tr>
+</table>
+
 ## Roadmap
 Press · career and hall of fame · data editor (district leagues) · native PC version · mobile version.
 
 ## Support / Sponsor
 Development is independent. Tiers: **Supporter** (public thanks), **In the credits** (your name in the game),
 **Fictional club** (a club named after you or your business), **Main sponsor** (featured brand in the game and here).
-Support link: _coming soon._ Contact: open an [issue](../../issues).
+Support link: **[buymeacoffee.com/tactivagames](https://buymeacoffee.com/tactivagames)**. Contact: open an [issue](../../issues).
 
 _All clubs, players and brands in the game are fictional._

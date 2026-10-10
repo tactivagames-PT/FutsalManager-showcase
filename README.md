@@ -28,6 +28,9 @@ Este repositório é só uma **montra** do jogo. O código não está aqui e o j
 <tr><td><img src="docs/media/relatorio.png"></td><td><img src="docs/media/taticas.png"></td></tr>
 <tr><td><img src="docs/media/mercado.png"></td><td><img src="docs/media/financas.png"></td></tr>
 <tr><td><img src="docs/media/treino.png"></td><td><img src="docs/media/balneario.png"></td></tr>
+<tr><td><img src="docs/media/plantel.png"></td><td><img src="docs/media/staff.png"></td></tr>
+<tr><td><img src="docs/media/clube.png"></td><td><img src="docs/media/competicoes.png"></td></tr>
+<tr><td><img src="docs/media/calendario.png"></td><td></td></tr>
 </table>
 
 ## Roteiro
@@ -43,7 +46,7 @@ O desenvolvimento é independente. Se queres ajudar:
 | **Clube fictício** | Um clube no jogo com o nome do teu negócio ou o teu |
 | **Patrocinador principal** | Marca em destaque no jogo e neste projeto |
 
-Link de apoio: _a adicionar em breve._
+Link de apoio: **[buymeacoffee.com/tactivagames](https://buymeacoffee.com/tactivagames)**
 
 ## Contacto
 Sugestões e propostas: abre uma [issue](../../issues) neste repositório.
